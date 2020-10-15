@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8uEmHYpH9RDNBN47mA4scfkM2sST/UcNKIKIEcVQaUHKNKk/SJBPvwyKWiNRpx88wXkiHhfPP0nNKKjFO5F6+A==",
+  "success": true,
+  "projectFilePath": "D:\\BMV\\20483C\\Mod 1-4\\01CreatingMethodHandlingExceptionMonitoring\\WritingWindowsEventLogs\\WritingWindowsEventLogs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Billy Vanegas\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Billy Vanegas\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Billy Vanegas\\.nuget\\packages\\system.diagnostics.eventlog\\4.7.0\\system.diagnostics.eventlog.4.7.0.nupkg.sha512",
+    "C:\\Users\\Billy Vanegas\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Billy Vanegas\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
